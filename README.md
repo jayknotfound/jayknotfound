@@ -27,7 +27,7 @@
 <p align="left">
 Hi, I'm Jay from the Philippines 🇵🇭<br><br>
 🔭 I’m working as a Back-End Developer, building APIs and server-side systems.<br><br>
-📚 I'm currently learning DevOps practices, system design, and improving my JavaScript/TypeScript stack.<br><br>
+📚 I'm currently learning DevOps practices, system design, and integrating local AI into backend applications.<br><br>
 ⚡ In my free time, I enjoy building side projects, gaming, and making cute dragon-themed art.
 </p>
 
