@@ -32,11 +32,7 @@ Hi, I'm Jay from the Philippines 🇵🇭<br><br>
 </p>
 
 ###
-
 <h3 align="left">🛠 Languages and Tools</h3>
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php logo" style="height: 40px; width: auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql logo" style="height: 40px; width: auto; margin-left: 12px;" />
