@@ -61,7 +61,10 @@ If you enjoy what I do, maybe consider treating me to a coffee or milk tea 🥺�
 <h3 align="left">🔥 My Stats :</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayknotfound&show_icons=true&theme=tokyonight&title_color=89CFF0&icon_color=89CFF0&text_color=ffffff&bg_color=0d1117" height="165" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jayknotfound&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="165" 
+  />
 </p>
 
 <p align="center">
