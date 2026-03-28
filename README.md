@@ -35,15 +35,17 @@ Hi, I'm Jay from the Philippines 🇵🇭<br><br>
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
+<h3 align="left">🛠 Languages and Tools</h3>
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo" style="height: 40px; width: auto;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" style="height: 40px; width: auto; margin-left: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" style="height: 40px; width: auto; margin-left: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" style="height: 40px; width: auto; margin-left: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php logo" style="height: 40px; width: auto;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql logo" style="height: 40px; width: auto; margin-left: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql logo" style="height: 40px; width: auto; margin-left: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" style="height: 40px; width: auto; margin-left: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php logo" style="height: 40px; width: auto; margin-left: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux logo" style="height: 40px; width: auto; margin-left: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu logo" style="height: 40px; width: auto; margin-left: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" style="height: 40px; width: auto; margin-left: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" style="height: 40px; width: auto; margin-left: 12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" style="height: 40px; width: auto; margin-left: 12px;" />
 </div>
 
 ###
